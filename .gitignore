@@ -1,0 +1,27 @@
+# Cache Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual Environment
+venv/
+.venv/
+env/
+
+# VS Code
+.vscode/
+
+# File sistem operasi
+.DS_Store
+Thumbs.db
+
+# Folder output program
+output/*
+!output/.gitkeep
+
+# Hasil laporan
+data/hasil_rekap.txt
+data/laporan_hasil.txt
+
+# Log
+*.log
